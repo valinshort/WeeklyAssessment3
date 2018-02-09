@@ -9,5 +9,28 @@ public class Main {
         2. Create a new method in this class called displayArray that takes a List parameter.
         3. Have this new method use a ForEach loop to iterate through the ArrayList and display each item to the user.
          */
+
+
+       // ArrayList<String> list = new ArrayList<String>();
+        //list.add("Red");
+        //ist.add("Orange");
+        //list..add("Yellow");
+       // list.add("Green");
+       // list.add("Blue");
+        //list..add("Violet");
+
+
+        //displayArray = new
+
+
+
     }
+
+
+
+
+
+
+
+
 }

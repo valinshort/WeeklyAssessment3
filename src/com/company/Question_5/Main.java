@@ -10,7 +10,9 @@ public class Main {
          */
 
 
-        /* ANSWER QUESTION HERE:
+        /* Making a class abstract makes it accesible for the othe classes and the main but does not let you instanciate it anywhere it will only get the value
+        that you made it in the original method you made abstract. Someone would want a class to be abstract so it can't be changed and so the
+        person running the program doesnt see all the steps it takes for the method in the class to occurr.
 
 
 

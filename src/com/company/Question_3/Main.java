@@ -1,6 +1,6 @@
 package com.company.Question_3;
 
-public class Main {
+public class Main extends Switch {
 
     public static void main(String[] args) {
         /*
@@ -10,6 +10,8 @@ public class Main {
         2. Recursion should be used if they hit the default.
         3. Instantiate the switch class in this main method and run the method you created.
          */
+
+        Switch switchClass = new Switch();
 
     }
 }
